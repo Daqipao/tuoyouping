@@ -464,12 +464,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 47eba9a8125895e4c9cc82425fecc888, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxForwardSpeed: 8
-  gravity: 20
-  jumpSpeed: 10
-  current: {fileID: 1407539671}
-  minTurnSpeed: 400
-  maxTurnSpeed: 1200
 --- !u!143 &649549034
 CharacterController:
   m_ObjectHideFlags: 0

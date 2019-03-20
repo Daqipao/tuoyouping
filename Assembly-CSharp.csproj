@@ -61,19 +61,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Props Animations\Scripts\CharacterMovementController.cs" />
-    <Compile Include="Assets\Props Animations\Scripts\DetectionTrigger.cs" />
-    <Compile Include="Assets\Props Animations\Scripts\General\CameraBumper.cs" />
-    <Compile Include="Assets\Props Animations\Scripts\General\CameraControl.cs" />
-    <Compile Include="Assets\Props Animations\Scripts\General\LimitedFloat.cs" />
-    <Compile Include="Assets\Props Animations\Scripts\GUIScript.cs" />
-    <Compile Include="Assets\Props Animations\Scripts\IKScript.cs" />
-    <Compile Include="Assets\Props Animations\Scripts\LayerMaskExampleScript.cs" />
-    <Compile Include="Assets\Props Animations\Scripts\PropsUnityObject.cs" />
-    <Compile Include="Assets\Props Animations\Scripts\RollerBladeScript.cs" />
-    <Compile Include="Assets\Props Animations\Scripts\SmoothCameraAdvanced.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\PlayerInput.cs" />
+    <Compile Include="Assets\Scripts\SaveData\IOHelper.cs" />
+    <Compile Include="Assets\Scripts\SaveData\Test.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>G:/pzr/tuoyouping/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
@@ -288,7 +279,10 @@
       <HintPath>D:/Unity2018.2.14/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Cinemachine">
-      <HintPath>G:/pzr/tuoyouping/Assets/Plugins/Cinemachine.dll</HintPath>
+      <HintPath>G:/pzr/tuoyouping/Assets/Models/Plugins/Cinemachine.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>G:/pzr/tuoyouping/Assets/Plugins/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>C:/Users/Administrator/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>

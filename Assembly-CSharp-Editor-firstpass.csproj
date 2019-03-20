@@ -318,7 +318,10 @@
       <HintPath>D:/Unity2018.2.14/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Cinemachine">
-      <HintPath>G:/pzr/tuoyouping/Assets/Plugins/Cinemachine.dll</HintPath>
+      <HintPath>G:/pzr/tuoyouping/Assets/Models/Plugins/Cinemachine.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>G:/pzr/tuoyouping/Assets/Plugins/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>C:/Users/Administrator/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>

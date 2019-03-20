@@ -296,7 +296,10 @@
       <HintPath>D:/Unity2018.2.14/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Cinemachine">
-      <HintPath>G:/pzr/tuoyouping/Assets/Plugins/Cinemachine.dll</HintPath>
+      <HintPath>G:/pzr/tuoyouping/Assets/Models/Plugins/Cinemachine.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>G:/pzr/tuoyouping/Assets/Plugins/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>C:/Users/Administrator/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
